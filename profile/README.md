@@ -1,3 +1,3 @@
 <a href="https://graphabase.com/">
-  <img src="./profile/cover.png" alt="Composabase" />
+  <img src="https://raw.githubusercontent.com/composabase/.github/refs/heads/main/profile/cover.png" alt="Composabase" />
 </a>
